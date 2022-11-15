@@ -154,3 +154,15 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0077.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0078.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0079.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0080.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0081.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0082.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0083.png" width="350">
