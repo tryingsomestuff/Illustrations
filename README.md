@@ -1,4 +1,4 @@
-# DALL-E generated chess illustrations
+# DALL-E and stable-diffusion generated chess illustrations
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0001.png" width="350">
@@ -166,3 +166,21 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0083.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0001.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0002.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0003.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0004.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0005.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0006.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0007.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0008.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0009.png" width="350">
+</p>
