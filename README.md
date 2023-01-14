@@ -1,4 +1,4 @@
-# DALL-E, MidJourney and stable-diffusion generated chess illustrations
+# DALL-E and stable-diffusion generated chess illustrations
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0001.png" width="350">
@@ -230,3 +230,25 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0023.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0024.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0025.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0026.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0027.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0028.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0029.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0030.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0031.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0032.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0033.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0034.png" width="350">
+</p>
