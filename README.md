@@ -1,4 +1,4 @@
-# DALL-E and stable-diffusion generated chess illustrations
+# DALL-E, MidJourney and stable-diffusion generated chess illustrations
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0001.png" width="350">
