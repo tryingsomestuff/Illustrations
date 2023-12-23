@@ -1,4 +1,4 @@
-# DALL-E, MidJourney and stable-diffusion generated chess illustrations
+# DALL-E and stable-diffusion generated chess illustrations
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0001.png" width="350">
@@ -166,89 +166,131 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0083.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0084.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0085.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0086.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0087.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0088.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0089.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0090.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0091.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0092.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0093.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0094.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0095.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0096.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0097.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0098.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0099.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0100.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0101.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0102.png" width="350">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0103.png" width="350">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/dall-e_0104.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0001.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0002.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0003.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0004.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0005.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0006.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0007.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0008.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/stablediffusion_0009.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0001.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0002.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0003.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0004.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0005.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0006.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0007.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0008.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0009.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0010.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0011.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0012.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0013.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0014.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0015.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0016.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0017.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0018.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0019.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0020.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0021.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0022.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0023.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0024.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0025.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0026.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0027.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0028.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0029.png" width="350">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0030.png" width="350">
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0031.png" width="350">
-<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0032.png" width="350">
 </p>
 <p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0032.png" width="350">
 <img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0033.png" width="350">
-<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0034.png" width="350">
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tryingsomestuff/Illustrations/master/img/MidJourney_0034.png" width="350">
